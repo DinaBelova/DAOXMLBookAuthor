@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<books>
+<book>
+<authors>
+<author>Dina Belova</author>
+<author>Sergey Lukjanov</author>
+</authors>
+<title>Thinking in Java 2</title>
+</book>
+</books>
